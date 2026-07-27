@@ -2,7 +2,7 @@ name: First Workflow
 on: push
 
 jobs:
-  first-jon:
+  first-job:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
